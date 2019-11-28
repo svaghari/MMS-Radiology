@@ -1,4 +1,4 @@
-CHEST X-RAY INTERPRETATION
+####CHEST X-RAY INTERPRETATION
 CXR APThere is upper lobe predominant bronchial wall thickening with ring shadows and patches of consolidation.There are features of mild airflow obstruction with flattened hemidiaphragms.The features suggest cystic bronchiectasis and given the symmetrical upper lobe predominance and clinical features, cystic fibrosis (CF) is most likely.
 
 CXR LateralThis more clearly demonstrates the ring shadows and clear upper lobe predominance of the bronchiectasis.
